@@ -27,7 +27,7 @@ export function Steps() {
                 description="Ative cupons onde estiver, em diferentes tipos de estabelecimento"     
             />
 
-            
+   
         </View>
     )
 }
